@@ -1,59 +1,20 @@
-/* BMWTypeNextPro Web Font - Arabic + English Support */
-
 @font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Thin.woff') format('woff');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
-}
-
-@font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Light.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
-}
-
-@font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Regular.woff') format('woff');
+  font-family: 'BMWTypeNext';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/BMWTypeNext-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
 }
 
 @font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Medium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
-}
-
-@font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Bold.woff') format('woff');
+  font-family: 'BMWTypeNext';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/BMWTypeNext-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
 }
 
 @font-face {
-  font-family: 'BMWTypeNextPro';
-  src: url('https://cdn.jsdelivr.net/gh/MKAKarjweel/bmw-fonts@main/BMWTypeNextProTT-Black.woff') format('woff');
-  font-weight: 900;
+  font-family: 'BMWTypeNext';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/BMWTypeNext-Light.woff2') format('woff2');
+  font-weight: 300;
   font-style: normal;
-  font-display: swap;
-  unicode-range: U+0000-00FF, U+0600-06FF;
-}
-
-body {
-  font-family: 'BMWTypeNextPro', sans-serif;
 }
