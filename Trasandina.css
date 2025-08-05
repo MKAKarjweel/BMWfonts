@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Trasandina';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/TrasandinaRegular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trasandina';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/TrasandinaBold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trasandina';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/TrasandinaLight.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
