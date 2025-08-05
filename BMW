@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'BMWTypeNextPro';
+  src: url('https://cdn.jsdelivr.net/gh/mkakarjweel/BMWfont@main/BMWTypeNextProTT-Light.woff') format('woff');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'BMWTypeNextPro';
+  src: url('https://cdn.jsdelivr.net/gh/mkakarjweel/BMWfont@main/BMWTypeNextProTT-Medium.woff') format('woff');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'BMWTypeNextPro';
+  src: url('https://cdn.jsdelivr.net/gh/mkakarjweel/BMWfont@main/BMWTypeNextProTT-Black.woff') format('woff');
+  font-weight: 300;
+}
+
+body {
+  font-family: 'BMWTypeNextPro', sans-serif;
+}
