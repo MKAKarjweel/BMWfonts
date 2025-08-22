@@ -4,13 +4,6 @@
   font-weight: 500;
   font-style: normal;
 }
-
-@font-face {
-  font-family: 'MINISerif-Headline';
-  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Headline.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-}
 @font-face {
   font-family: 'MINISerif-Regular';
   src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Regular.woff') format('woff2');
