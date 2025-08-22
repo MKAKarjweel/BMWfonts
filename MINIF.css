@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MINISerif-Medium';
   src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Medium.woff2') format('woff2');
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
@@ -9,5 +9,17 @@
   font-family: 'MINISerif-Headline';
   src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Headline.woff2') format('woff2');
   font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MINISerif-Regular';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Regular.woff') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MINISerif-Bold';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/MINISerif-Bold.woff2') format('woff2');
+  font-weight: 600;
   font-style: normal;
 }
