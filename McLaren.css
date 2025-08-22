@@ -1,20 +1,20 @@
 @font-face {
-  font-family: 'McLarenBespoke_Lt';
+  font-family: 'McLarenBespoke';
   src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/McLarenBespoke_Lt.woff2') format('woff2');
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'McLarenBespoke_Rg';
-  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/McLarenBespoke_Rg.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'McLarenBespoke_Bd';
-  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/McLarenBespoke_Bd.woff2') format('woff2');
+  font-family: 'McLarenBespoke';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/McLarenBespoke_Rg.woff2') format('woff2');
   font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'McLarenBespoke';
+  src: url('https://raw.githubusercontent.com/MKAKarjweel/BMWfonts/main/McLarenBespoke_Bd.woff2') format('woff2');
+  font-weight: 300;
   font-style: normal;
 }
